@@ -1,4 +1,4 @@
 print("This is my second project")
-a=100
+a=1000
 b=1000
 print(a*b)
