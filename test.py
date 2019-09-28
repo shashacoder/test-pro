@@ -1,4 +1,4 @@
-print("This is my first project")
-a=9
-b=10
-print(a+b)
+print("This is my second project")
+a=100
+b=1000
+print(a*b)
